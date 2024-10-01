@@ -1,0 +1,193 @@
+.page {
+    width: Fixed 1280px;
+    height: max-content;
+    background-position-x: 80px;
+    background-position-y: 80px;
+    padding: 88px 0px 48px 160px;
+    background-color: #F5F4F0;
+
+}
+
+.container {
+    width: 1120px;
+    height: Hug (3,054px);
+    gap: 40px;
+    opacity: 0px;
+    width: Fixed (1,120px)px;
+    height: Hug (3,054px)px;
+    background-position-x: 88px;
+    background-position-y: 80px;
+    gap: 40px;
+}
+
+.headline {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21.79px;
+    text-align: left;
+    color: #E1624F;
+    width : 1120px;
+    height: 22px;
+    text-transform: uppercase;
+    align-self: stretch;
+    padding-bottom: none;
+    
+}
+
+#description {
+    width : Fill (1,120px)px ;
+    height: Hug (66px)px;
+    font-family: Open Sans;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align : center;
+    color: #333333;
+}
+
+h1 {
+    width: Fill (1,120px)px;
+    height: Hug (49px)px;
+    font-family: Open Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 49.03px;
+    text-align: left;
+    color: #1B1B1B;
+    padding-bottom: 40px;
+}
+
+h2 {
+    width: Hug (683px)px;
+    height: Hug (44px)px;
+    font-family: Open Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 43.58px;
+    text-align: left;
+    color: #1B1B1B;
+
+}
+
+h3 {
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 38.13px;
+    text-align: left;
+    color: #1B1B1B;
+
+}
+
+#paragraph {
+    width: 1120px;
+    height: 88px;
+    color: #333;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 21.79px;
+    padding-bottom: 64px;
+    
+}
+
+.contentcard {
+    align-self: stretch;
+    color: #333;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 1120px;
+    height: 110px;
+
+}
+span {
+    color: var(--text-secondary, #333);
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.historia {
+    color: #0C51A7;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.familias {
+    color:#E5245E;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.casais {
+    color:#591B98;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.orçamento {
+    color:#E95E10;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.divisor {
+    width:1120px;
+    border: solid 1px ;
+    color: #D9D9D9;
+    margin-top: 40px;
+    margin-bottom: 64px;
+}
+
+#main-image {
+    width: 1120px;
+    height: 660px;
+    border-radius: 28px;
+    padding-bottom: 24px;
+    padding-top: 4px;
+}
+
+.image {
+    border-radius: 28px;
+    width: 1120px;
+    height: 350px;
+    padding-bottom: 20px;
+}
+
+.credits {
+    width: hug (70px)px; 
+    height: hug (24px)px;
+    opacity: 100%;
+    font-family: Alice;
+    font-size: 16px;
+    line-height: 150%;
+    color: #333333;
+    padding-left: 467px;
+    padding-top: 16px;
+    align-items: center;
+}
+
+.credits a {
+    text-decoration: none;
+    color: #333333;
+
+
+}
+   
